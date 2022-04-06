@@ -2,7 +2,7 @@
 
 <h1> Full Stack Developer </h1>
   
-- 🔭 I’m currently working on learn and practice the most to get my first tech job.
+- 🔭 I’m currently learning a lot about the IT/Tech world !
 
 ## 👀 A little bit about me:
 <p>
