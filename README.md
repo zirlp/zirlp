@@ -27,5 +27,5 @@ HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | Postgr
 ## :pushpin: My proyects
 
 <p>
-  <a href="https://videogames-single-page-app.vercel.app/"> <img src=""> </a>
+  <a href="https://videogames-single-page-app.vercel.app/"> <img src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> </a>
 </p>
