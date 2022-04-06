@@ -18,3 +18,7 @@
 
 - 📫 Reach me: https://www.linkedin.com/in/zirlp/
 
+
+<h3> Languages and Tools</h3>
+
+HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | PostgreSQL | SCRUM
