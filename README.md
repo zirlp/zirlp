@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently working on learn and practice the most to get my first tech job.
 
-<h3> A little bit about me: </h3>
+## 👀 A little bit about me:
 <p>
   I am an enthusiastic person, passionate about learning and acquiring more 
   usefull skills for my career, with a solid background in the productive and 
@@ -19,13 +19,15 @@
 - 📫 Reach me: https://www.linkedin.com/in/zirlp/
 
 
-<h3> Languages and Tools</h3>
+## 🧰 Languages and tools
 
 HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | PostgreSQL | SCRUM
 
 
-## :pushpin: My proyects
+## 📌 My proyects
 
 <p>
-  <a href="https://videogames-single-page-app.vercel.app/"> <img src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> </a>
+  <a href="https://videogames-single-page-app.vercel.app/" target="_blank"> 
+    <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> 
+  </a>
 </p>
