@@ -31,7 +31,7 @@ HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | Postgr
 ## 📫 Reach me
 <span>
   <a href="https://www.linkedin.com/in/zirlp/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="5%"> </a>  
-  <a href="mailto:jal.p@hotmail.com" > <img src="https://www.pngkey.com/png/full/180-1808853_mail-logo-png-white.png" width="5%"> </a>  
+  <a href="mailto:jal.p@hotmail.com" > <img src="https://github.com/zirlp/zirlp/blob/main/mail.png?raw=true" width="5%"> </a>  
 </span>
   
 
