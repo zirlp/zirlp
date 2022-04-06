@@ -22,3 +22,10 @@
 <h3> Languages and Tools</h3>
 
 HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | PostgreSQL | SCRUM
+
+
+## :pushpin: My proyects
+
+<p>
+  <a href="https://videogames-single-page-app.vercel.app/"> <img src=""> </a>
+</p>
