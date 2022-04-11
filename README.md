@@ -22,6 +22,7 @@ HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | Postgr
 
 ## 📌 My proyects
 
+<span>
 <p>
   <a target="blank" href="https://videogames-single-page-app.vercel.app/" rel="noopener noreferrer"> 
     <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> 
@@ -30,10 +31,11 @@ HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | Postgr
 
 <p>
   <a target="blank" href="https://weather-app-woad-pi.vercel.app/" rel="noopener noreferrer"> 
-    <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> 
+<!--    <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true">  -->
+     Weather App
   </a>
 </p>
-
+</span>
 
 
 
