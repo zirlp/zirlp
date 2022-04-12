@@ -44,6 +44,9 @@ HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | Postgr
   <a href="https://www.linkedin.com/in/zirlp/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="5%"> </a>  
   <a href="mailto:jal.p@hotmail.com" target="blank"> <img src="https://github.com/zirlp/zirlp/blob/main/mail.png?raw=true" width="5%"> </a>  
 </span>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="zirlp" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/zirlp?trk=profile-badge">Antonio López Pacheco</a></div>
+              
   
 
 
