@@ -28,7 +28,13 @@ HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | Postgr
     <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> 
   </a>
 </p>
-
+  
+<p>
+  <a target="blank" href="https://cineman.vercel.app/" rel="noopener noreferrer"> 
+    <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> 
+  </a>
+</p>
+  
 <p>
   <a target="blank" href="https://weather-app-woad-pi.vercel.app/" rel="noopener noreferrer"> 
 <!--    <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true">  -->
