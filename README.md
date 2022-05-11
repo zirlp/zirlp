@@ -25,16 +25,18 @@ HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | Postgr
 <div align="center">
 
   <a target="blank" href="https://videogames-single-page-app.vercel.app/" rel="noopener noreferrer"> 
-    <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> 
+    <div>Videogames Api</div>
+    <img width = "30%" height = "150px" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> 
   </a>
 
   <a target="blank" href="https://cineman.vercel.app/" rel="noopener noreferrer"> 
-    <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> 
+    <div style="width: 300px">Cinema Manager</div>
+    <img width = "30%" height = "150px" src="https://github.com/zirlp/zirlp/blob/main/cineman.PNG?raw=true"> 
   </a>
 
   <a target="blank" href="https://weather-app-woad-pi.vercel.app/" rel="noopener noreferrer"> 
-<!--    <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true">  -->
-     Weather App
+    <div style="width: 300px">Weather App</div>
+    <img width = "30%" height= "150px"src="https://github.com/zirlp/zirlp/blob/main/Weather.PNG?raw=true"> 
   </a>
 
 
