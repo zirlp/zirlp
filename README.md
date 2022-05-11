@@ -17,32 +17,28 @@
 
 ## 🧰 Languages and tools
 
-HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | PostgreSQL | SCRUM
+HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | PostgreSQL | MongoDB | SCRUM
 
 
 ## 📌 My proyects
 
-<span>
-<p>
+<div align="center">
+
   <a target="blank" href="https://videogames-single-page-app.vercel.app/" rel="noopener noreferrer"> 
     <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> 
   </a>
-</p>
-  
-<p>
+
   <a target="blank" href="https://cineman.vercel.app/" rel="noopener noreferrer"> 
     <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> 
   </a>
-</p>
-  
-<p>
+
   <a target="blank" href="https://weather-app-woad-pi.vercel.app/" rel="noopener noreferrer"> 
 <!--    <img width = "35%" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true">  -->
      Weather App
   </a>
-</p>
-</span>
 
+
+</div>
 
 
 ## 📫 Reach me
