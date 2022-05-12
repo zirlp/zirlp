@@ -29,10 +29,7 @@
 <img alt ="postgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt ="MongDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt ="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
 </p>
-
-HTML | CSS | JavaScript | React | Redux | node.js | Express | Sequelize | PostgreSQL | MongoDB | SCRUM
 
 
 ## 📌 My proyects
