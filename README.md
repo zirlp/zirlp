@@ -34,21 +34,20 @@
 
 ## 📌 My proyects
 
+  These are my favourite deployed proyects from newest (left) to oldest.
+
 <div align="center">
-
-  <a target="blank" href="https://videogames-single-page-app.vercel.app/" rel="noopener noreferrer"> 
-    <div>Videogames Api</div>
-    <img width = "30%" height = "150px" src="https://github.com/zirlp/zirlp/blob/main/start.PNG?raw=true"> 
+   
+	<a target="blank" href="https://cineman.vercel.app/" rel="noopener noreferrer"> 
+    <img width = "30%" height = "150px" src="https://github.com/zirlp/zirlp/blob/main/images/cineman.PNG?raw=true"> 
   </a>
-
-  <a target="blank" href="https://cineman.vercel.app/" rel="noopener noreferrer"> 
-    <div style="width: 300px">Cinema Manager</div>
-    <img width = "30%" height = "150px" src="https://github.com/zirlp/zirlp/blob/main/cineman.PNG?raw=true"> 
+	
+  <a target="blank" href="https://videogames-single-page-app.vercel.app/" rel="noopener noreferrer"> 
+    <img width = "30%" height = "150px" src="https://github.com/zirlp/zirlp/blob/main/images/start.PNG?raw=true"> 
   </a>
 
   <a target="blank" href="https://weather-app-woad-pi.vercel.app/" rel="noopener noreferrer"> 
-    <div style="width: 300px">Weather App</div>
-    <img width = "30%" height= "150px"src="https://github.com/zirlp/zirlp/blob/main/Weather.PNG?raw=true"> 
+    <img width = "30%" height= "150px"src="https://github.com/zirlp/zirlp/blob/main/images/Weather.PNG?raw=true"> 
   </a>
 
 
@@ -58,6 +57,6 @@
 ## 📫 Reach me
 <span>
   <a href="https://www.linkedin.com/in/zirlp/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="5%"> </a>  
-  <a href="mailto:jal.p@hotmail.com" target="blank"> <img src="https://github.com/zirlp/zirlp/blob/main/mail.png?raw=true" width="5%"> </a>  
+  <a href="mailto:jal.p@hotmail.com" target="blank"> <img src="https://github.com/zirlp/zirlp/blob/main/assets/mail.png?raw=true" width="5%"> </a>  
 </span>
 
