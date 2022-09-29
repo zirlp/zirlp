@@ -1,6 +1,6 @@
 ### Hi, I'm Antonio 👋 
 
-<h1> Full Stack Developer </h1>
+<h1> Web Developer Jr. </h1>
   
 - 🔭 I’m currently learning a lot about the IT/Tech world !
 
