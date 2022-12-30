@@ -11,8 +11,6 @@
   manufacturing industry and used to high-pressure work environments; I am 
   looking for my ideal place to work where I can continue learning day by day 
   and also have enough free time for myself.
-  In addition, I have ease of communication with other people such as 
-  co-workers, supliers or contracctors, even though I’m a bit of an introvert. 
 </p>
 
 ## 🧰 Languages and tools
