@@ -2,16 +2,7 @@
 
 <h1> Web Developer Jr. </h1>
   
-- 🔭 I’m currently learning a lot about the IT/Tech world !
-
-## 👀 A little bit about me:
-<p>
-  I am an enthusiastic person, passionate about learning and acquiring more 
-  usefull skills for my career, with a solid background in the productive and 
-  manufacturing industry and used to high-pressure work environments; I am 
-  looking for my ideal place to work where I can continue learning day by day 
-  and also have enough free time for myself.
-</p>
+- 🔭 I’m currently learning a lot about the IT/Tech world ! 🐢
 
 ## 🧰 Languages and tools
 
@@ -36,28 +27,6 @@
 <! --<img alt ="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </p>
-
-
-## 📌 My proyects
-
-  These are my favourite deployed proyects from newest (left) to oldest.
-
-/* <div align="center">
-   
-  <a target="blank" href="https://cineman.vercel.app/" rel="noopener noreferrer"> 
-    <img width = "30%" height = "150px" src="https://github.com/zirlp/zirlp/blob/main/images/cineman.PNG?raw=true"> 
-  </a>
-	
-  <a target="blank" href="https://videogames-single-page-app.vercel.app/" rel="noopener noreferrer"> 
-    <img width = "30%" height = "150px" src="https://github.com/zirlp/zirlp/blob/main/images/start.PNG?raw=true"> 
-  </a>
-
-  <a target="blank" href="https://weather-app-woad-pi.vercel.app/" rel="noopener noreferrer"> 
-    <img width = "30%" height= "150px"src="https://github.com/zirlp/zirlp/blob/main/images/Weather.PNG?raw=true"> 
-  </a>
-
-
-</div> */
 
 
 ## 📫 Reach me
